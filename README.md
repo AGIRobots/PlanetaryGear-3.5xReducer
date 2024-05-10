@@ -18,6 +18,7 @@ The experimental torque is confirmed up to 35Nm, though calculations suggest tha
 ## 3D Printing Requirements
 Parts required to be 3D printed are stored in the 3d_models folder. Notably, the file PlanetGear.stl needs to be printed six times.
 ## Parts List
+The following parts must be purchased for assembly:
 * CyberGear Main Unit: x1
 * Bearings (6810ZZ): x1
 * Bearings (HK0612): x6
@@ -27,6 +28,9 @@ Parts required to be 3D printed are stored in the 3d_models folder. Notably, the
 * Screws (M3x45mm): x9
 * Screws (M3x15mm): x3
 * Screws (M4x10mm): x3
+
+## Comprehensive Assembly Overview
+For a full understanding of all the components that need to be assembled, including those printed from the 3d_models directory, refer to the image below:
 ![](./images/parts.jpg)
 
 ## Software for Operational Testing
