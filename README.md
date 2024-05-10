@@ -6,6 +6,7 @@ Contains the design, documentation, and implementation details for an additional
 
 Detailed operational instructions, assembly procedures, and simple torque tests are available in our YouTube video linked below. This video also provides practical insights into the assembly and testing processes.
 
+https://youtu.be/O-cvOlKmTHc
 [![](./images/youtube-thumbnail.jpg)](https://youtu.be/O-cvOlKmTHc)
 
 ## Technical Specifications
